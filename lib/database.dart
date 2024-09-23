@@ -18,14 +18,14 @@ class Database {
     "text":"FOOD DELIVERY",
     "text1":"FEAST MODE ON",
     "text2":"GET GREAT OFFERS",
-    "image":"assets/images/table.jpeg",
+    "image":"assets/images/table1.jpeg",
   },
 
   {
     "text":"FOOD DELIVERY",
     "text1":"FEAST MODE ON",
     "text2":"GET GREAT OFFERS",
-    "image":"assets/images/box.jpg",
+    "image":"assets/images/box2.jpeg",
   },
 
   ];

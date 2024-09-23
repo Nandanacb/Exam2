@@ -90,18 +90,23 @@ class HomePage extends StatelessWidget{
                               ),
                             ],
                           ),
-                          Stack(
-                            children: [
-                              Container(
-                                child:  Positioned(
-                                 
+                          Padding(
+                            padding: const EdgeInsets.all(10),
+                            child: Stack(
+                              children: [
+                                Container(
+                                  child:  CircleAvatar(
+                                    radius: 35,
+                                   foregroundImage: AssetImage(Database.myList[index]["image"]),
                                 
-                            child: 
-                            Image(image: AssetImage(Database.myList[index]["image"]),),
-                          ),
-                              )
-                          
-                            ]
+                                    
+                                  ),
+                                  
+                                ),
+                                
+                            
+                              ]
+                            ),
                           )
                         
                         ],
