@@ -1,4 +1,5 @@
 import 'package:exam2/Swiggy1.dart';
+import 'package:exam2/swiggydesign2.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -13,7 +14,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home:  HomePage (),
+      home: Swiggydesign2 (),
+      
     );
   }
 }
