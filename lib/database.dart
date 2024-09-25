@@ -51,29 +51,32 @@ class Database {
 
     },
 
+    {
+    "image":"assets/images/food.jpeg",
+
+    },
+
   ];
 
-  static List<Map> myList2=[
+  static List<String> myList2=[
 
-    {
-    "image":"assets/images/food4.jpeg",
+    
+    "assets/images/food4.jpeg",
 
-    },
+  "assets/images/food5.jpeg",
 
-    {
-    "image":"assets/images/food5.jpeg",
+    
 
-    },
+    
+    "assets/images/food6.jpeg",
 
-    {
-    "image":"assets/images/food6.jpeg",
+    
 
-    },
+  
+    "assets/images/food7.jpeg",
+     "assets/images/food4.jpeg",
 
-    {
-    "image":"assets/images/food7.jpeg",
-
-    },
+    
   ];
 
 
